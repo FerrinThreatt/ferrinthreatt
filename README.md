@@ -4,14 +4,14 @@ Hi 👋 My name is Ferrin Threatt
 Senior @ Clemson University
 ---------------------------
 
-I began coding in and off on high school. College was when I really started to take it seriously, as I am majoring in computer science. In the middle of my academic career, I ended up falling in love with web development. Seeing a website/app come together is a way I have been able to showcase my creative and artistic side. I love working with different frameworks such as React and Django. I also throughly enjoy working with REST APIs. I am a senior computer science major with an anticipated graduating date of May 2023. I am currently open to work and looking for 2023 roles regarding: software engineering, web development, full stack development, front-end and product management!
+I began coding on and off on high school. College was when I really started to take it seriously, as I am majoring in computer science. In the middle of my academic career, I ended up falling in love with web development. Seeing a website/app come together is a way I have been able to showcase my creative and artistic side. I love working with different frameworks such as React and Django. I also throughly enjoy working with REST APIs. I am a senior computer science major with an anticipated graduating date of May 2023. I am currently open to work and looking for 2023 roles regarding: software engineering, web development, full stack development, front-end and product management!
 
-* 🌍  I'm based in Clemson, SC (looking to relocate after graduation)
-* 🖥️  See my portfolio at [f3rrin.web.app](http://f3rrin.web.app)
-* ✉️  You can contact me at [fthreatt19@gmail.com](mailto:fthreatt19@gmail.com)
-* 🚀  I'm currently working on [a Coachella Lineup based on your top 50 Spotify Artists](http://coachella-lineup.web.app/)
-* 🧠  I'm learning Unity and Unreal
-* ⚡  I love all forms of web development, however I do have a specific niche for music related websites/webapps
+* 🌍  I'm based in Clemson, SC (looking to relocate after graduation)
+* 🖥️  See my portfolio at [f3rrin.web.app](http://f3rrin.web.app)
+* ✉️  You can contact me at [fthreatt19@gmail.com](mailto:fthreatt19@gmail.com)
+* 🚀  I'm currently working on [a Coachella Lineup based on your top 50 Spotify Artists](http://coachella-lineup.web.app/)
+* 🧠  I'm learning Unity and Unreal
+* ⚡  I love all forms of web development, however I do have a specific niche for music related websites/webapps
 
 ### Skills
 
@@ -32,13 +32,15 @@ I began coding in and off on high school. College was when I really started to t
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
 
-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/FerrinThreatt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ferrin-threatt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
 ### Badges
 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/FerrinThreatt"><img src="https://github-readme-stats.vercel.app/api?username=FerrinThreatt&show_icons=true&hide=stars,&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=64748b&bg_color=1c1917&hide_border=true&show_icons=true" alt="FerrinThreatt's GitHub stats" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/FerrinThreatt/ferrinPortfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=FerrinThreatt&repo=ferrinPortfolio&title_color=ec4899&text_color=ffffff&icon_color=64748b&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/FerrinThreatt/coachella-lineup" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=FerrinThreatt&repo=coachella-lineup&title_color=ec4899&text_color=ffffff&icon_color=64748b&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />

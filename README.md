@@ -3,6 +3,9 @@ Hi 👋 My name is Ferrin Threatt
 
 Senior @ Clemson University
 ---------------------------
+<div>
+  <img src="https://komarev.com/ghpvc/?username=ferrinthreatt&style=flat-square&color=green" alt=""/>
+</div>
 
 I began coding on and off on high school. College was when I really started to take it seriously, as I am majoring in computer science. In the middle of my academic career, I ended up falling in love with web development. Seeing a website/app come together is a way I have been able to showcase my creative and artistic side. I love working with different frameworks such as React and Django. I also throughly enjoy working with REST APIs. I am a senior with an anticipated graduating date of May 2023. I am currently open to work and looking for 2023 roles regarding: software engineering, web development, full stack development, front-end and product management!
 
